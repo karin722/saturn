@@ -3,4 +3,4 @@
 
 ## 使い方
 root必須です
-[substratum](https://play.google.com/store/apps/details?id=projekt.substratum) [substratum_lite](https://play.google.com/store/apps/details?id=projekt.substratum.lite) をインストールして有効化してください
+[substratum](https://play.google.com/store/apps/details?id=projekt.substratum)か[substratum_lite](https://play.google.com/store/apps/details?id=projekt.substratum.lite) をインストールして有効化してください
