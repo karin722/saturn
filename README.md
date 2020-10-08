@@ -4,7 +4,7 @@
 ロック画面/AODの日付表示をXX月YY日(Z)にするsubstratumテーマ
 
 ## 使用例
-<img src="https://raw.githubusercontent.com/karin722/otonokizaka/master/lock.jpg" witdh=50%>
+<img src="https://raw.githubusercontent.com/karin722/otonokizaka/master/lock.jpg" width=50%>
 
 ### 動作環境
 - android 9 ~ 10
@@ -15,7 +15,7 @@
 ## おまけ
 OnePlus ウィジェットの日付表示をXX月YY日(Z)にするsubstratumテーマ
 
-## 使用例
+### 使用例
 <img src="https://raw.githubusercontent.com/karin722/otonokizaka/master/widget.jpg" width=50%>
 
 ### 動作環境
