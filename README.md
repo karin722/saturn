@@ -1,6 +1,4 @@
 # saturn
-![saturn](https://github.com/karin722/saturn/raw/master/app/src/main/res/mipmap-hdpi/ic_launcher.png) <br>
-
 ロック画面/AODの日付表示をXX月YY日(Z)にするsubstratumテーマ
 
 ## 使用例
