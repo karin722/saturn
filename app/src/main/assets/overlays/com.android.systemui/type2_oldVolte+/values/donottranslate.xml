@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <item type="string" name="system_ui_aod_date_pattern" translatable="false">EEEMMMd</item>
-</resources>
