@@ -8,7 +8,7 @@
 - android 9
 - android 10 
 
-Pixel標準ROM(9~10), LineageOS16~17.1 , OxygenOS10での動作も確認しています
+Pixel標準ROM(9/10), LineageOS16/17.1 , OxygenOS10での動作も確認しています
 
 ### つかいかた
 [substratum](https://play.google.com/store/apps/details?id=projekt.substratum) か <br>
